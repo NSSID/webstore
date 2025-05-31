@@ -40,15 +40,55 @@
       }
     ],
     "products": [
-      {
-        "id": "e001",
-        "categoryId": "elektronik",
-        "name": "Smart Wireless Earbuds",
-        "price": "Rp 599.000",
-        "description": "Earbuds wireless premium dengan noise cancelling, bass yang kuat, dan baterai tahan hingga 30 jam. Desain ergonomis yang nyaman untuk penggunaan sepanjang hari.",
-        "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
-        "link": "https://example.com/beli-earbuds",
-        "badge": "Terlaris"
-      }
-    ]
+  {
+    "id": "e001",
+    "categoryId": "elektronik",
+    "name": "Smart Wireless Earbuds",
+    "price": "Rp 599.000",
+    "description": "Earbuds wireless premium dengan noise cancelling, bass yang kuat, dan baterai tahan hingga 30 jam. Desain ergonomis yang nyaman untuk penggunaan sepanjang hari.",
+    "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
+    "link": "https://example.com/beli-earbuds",
+    "badge": "Terlaris"
+  },
+  {
+    "id": "f001",
+    "categoryId": "fashion",
+    "name": "Kemeja Linen Premium",
+    "price": "Rp 299.000",
+    "description": "Kemeja berbahan linen berkualitas tinggi yang ringan dan nyaman dipakai, cocok untuk gaya kasual maupun semi-formal.",
+    "image": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg",
+    "link": "https://example.com/beli-kemeja",
+    "badge": "Favorit"
+  },
+  {
+    "id": "a001",
+    "categoryId": "aksesoris",
+    "name": "Jam Tangan Kayu Minimalis",
+    "price": "Rp 450.000",
+    "description": "Jam tangan eksklusif dengan bahan kayu alami dan desain minimalis elegan. Tahan air dan ringan dipakai.",
+    "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
+    "link": "https://example.com/beli-jam-kayu",
+    "badge": "Eco Friendly"
+  },
+  {
+    "id": "k001",
+    "categoryId": "kesehatan",
+    "name": "Facial Cleanser Organik",
+    "price": "Rp 120.000",
+    "description": "Pembersih wajah berbahan alami tanpa bahan kimia keras, cocok untuk semua jenis kulit dan aman untuk penggunaan harian.",
+    "image": "https://images.pexels.com/photos/3736395/pexels-photo-3736395.jpeg",
+    "link": "https://example.com/beli-cleanser",
+    "badge": "Best Seller"
+  },
+  {
+    "id": "r001",
+    "categoryId": "rumah",
+    "name": "Lampu Hias LED Aesthetic",
+    "price": "Rp 189.000",
+    "description": "Lampu LED hias modern dengan warna RGB yang bisa dikontrol dari smartphone. Cocok untuk ruang kerja atau kamar tidur.",
+    "image": "https://images.pexels.com/photos/3945656/pexels-photo-3945656.jpeg",
+    "link": "https://example.com/beli-lampu",
+    "badge": "Limited"
   }
+]
+}
