@@ -1,0 +1,54 @@
+{
+    "shopInfo": {
+      "name": "ModernShop",
+      "tagline": "Style & Kualitas Premium",
+      "description": "ModernShop adalah destinasi belanja online terbaik untuk produk berkualitas premium dengan desain modern dan elegan. Kami menawarkan pengalaman berbelanja yang menyenangkan dengan produk pilihan terbaik dan layanan pelanggan yang ramah dan responsif.",
+      "image": "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg",
+      "hero": {
+        "title": "Temukan Gaya Hidup Modern Anda",
+        "subtitle": "Koleksi produk premium dengan desain modern untuk gaya hidup berkualitas"
+      },
+      "contact": {
+        "phone": "081234567890",
+        "email": "hello@modernshop.com",
+        "address": "Jl. Modern No. 123, Jakarta",
+        "whatsapp": "081234567890",
+        "instagram": "@modern.shop",
+        "facebook": "ModernShopID"
+      }
+    },
+    "categories": [
+      {
+        "id": "elektronik",
+        "name": "Elektronik"
+      },
+      {
+        "id": "fashion",
+        "name": "Fashion"
+      },
+      {
+        "id": "aksesoris",
+        "name": "Aksesoris"
+      },
+      {
+        "id": "kesehatan",
+        "name": "Kesehatan & Kecantikan"
+      },
+      {
+        "id": "rumah",
+        "name": "Rumah & Lifestyle"
+      }
+    ],
+    "products": [
+      {
+        "id": "e001",
+        "categoryId": "elektronik",
+        "name": "Smart Wireless Earbuds",
+        "price": "Rp 599.000",
+        "description": "Earbuds wireless premium dengan noise cancelling, bass yang kuat, dan baterai tahan hingga 30 jam. Desain ergonomis yang nyaman untuk penggunaan sepanjang hari.",
+        "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
+        "link": "https://example.com/beli-earbuds",
+        "badge": "Terlaris"
+      }
+    ]
+  }
