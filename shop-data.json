@@ -1,94 +1,94 @@
 {
     "shopInfo": {
-      "name": "ModernShop",
-      "tagline": "Style & Kualitas Premium",
-      "description": "ModernShop adalah destinasi belanja online terbaik untuk produk berkualitas premium dengan desain modern dan elegan. Kami menawarkan pengalaman berbelanja yang menyenangkan dengan produk pilihan terbaik dan layanan pelanggan yang ramah dan responsif.",
-      "image": "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg",
+      "name": "ShiroHost",
+      "tagline": "Solusi Hosting & Domain Premium",
+      "description": "ShiroHost adalah penyedia layanan hosting, VPS, dan domain terpercaya dengan performa tinggi dan dukungan teknis 24/7. Kami menawarkan solusi lengkap untuk kebutuhan online bisnis Anda dengan uptime 99.9% dan keamanan terbaik.",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
       "hero": {
-        "title": "Temukan Gaya Hidup Modern Anda",
-        "subtitle": "Koleksi produk premium dengan desain modern untuk gaya hidup berkualitas"
+        "title": "Bangun Online Presence Anda dengan ShiroHost",
+        "subtitle": "Layanan hosting berkualitas premium dengan performa optimal untuk website Anda"
       },
       "contact": {
-        "phone": "081234567890",
-        "email": "hello@modernshop.com",
-        "address": "Jl. Modern No. 123, Jakarta",
-        "whatsapp": "081234567890",
-        "instagram": "@modern.shop",
-        "facebook": "ModernShopID"
+        "phone": "081234567891",
+        "email": "support@shirohost.com",
+        "address": "Jl. Digital No. 456, Jakarta",
+        "whatsapp": "081234567891",
+        "instagram": "@shiro.host",
+        "facebook": "ShiroHostID"
       }
     },
     "categories": [
       {
-        "id": "elektronik",
-        "name": "Elektronik"
+        "id": "domain",
+        "name": "Domain"
       },
       {
-        "id": "fashion",
-        "name": "Fashion"
+        "id": "shared-hosting",
+        "name": "Shared Hosting"
       },
       {
-        "id": "aksesoris",
-        "name": "Aksesoris"
+        "id": "vps",
+        "name": "VPS"
       },
       {
-        "id": "kesehatan",
-        "name": "Kesehatan & Kecantikan"
+        "id": "cloud",
+        "name": "Cloud Hosting"
       },
       {
-        "id": "rumah",
-        "name": "Rumah & Lifestyle"
+        "id": "ssl",
+        "name": "SSL & Keamanan"
       }
     ],
     "products": [
-  {
-    "id": "e001",
-    "categoryId": "elektronik",
-    "name": "Smart Wireless Earbuds",
-    "price": "Rp 599.000",
-    "description": "Earbuds wireless premium dengan noise cancelling, bass yang kuat, dan baterai tahan hingga 30 jam. Desain ergonomis yang nyaman untuk penggunaan sepanjang hari.",
-    "image": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
-    "link": "https://example.com/beli-earbuds",
-    "badge": "Terlaris"
-  },
-  {
-    "id": "f001",
-    "categoryId": "fashion",
-    "name": "Kemeja Linen Premium",
-    "price": "Rp 299.000",
-    "description": "Kemeja berbahan linen berkualitas tinggi yang ringan dan nyaman dipakai, cocok untuk gaya kasual maupun semi-formal.",
-    "image": "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg",
-    "link": "https://example.com/beli-kemeja",
-    "badge": "Favorit"
-  },
-  {
-    "id": "a001",
-    "categoryId": "aksesoris",
-    "name": "Jam Tangan Kayu Minimalis",
-    "price": "Rp 450.000",
-    "description": "Jam tangan eksklusif dengan bahan kayu alami dan desain minimalis elegan. Tahan air dan ringan dipakai.",
-    "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg",
-    "link": "https://example.com/beli-jam-kayu",
-    "badge": "Eco Friendly"
-  },
-  {
-    "id": "k001",
-    "categoryId": "kesehatan",
-    "name": "Facial Cleanser Organik",
-    "price": "Rp 120.000",
-    "description": "Pembersih wajah berbahan alami tanpa bahan kimia keras, cocok untuk semua jenis kulit dan aman untuk penggunaan harian.",
-    "image": "https://images.pexels.com/photos/3736395/pexels-photo-3736395.jpeg",
-    "link": "https://example.com/beli-cleanser",
-    "badge": "Best Seller"
-  },
-  {
-    "id": "r001",
-    "categoryId": "rumah",
-    "name": "Lampu Hias LED Aesthetic",
-    "price": "Rp 189.000",
-    "description": "Lampu LED hias modern dengan warna RGB yang bisa dikontrol dari smartphone. Cocok untuk ruang kerja atau kamar tidur.",
-    "image": "https://images.pexels.com/photos/3945656/pexels-photo-3945656.jpeg",
-    "link": "https://example.com/beli-lampu",
-    "badge": "Limited"
-  }
-]
+      {
+        "id": "d001",
+        "categoryId": "domain",
+        "name": "Registrasi Domain .COM",
+        "price": "Rp 150.000/tahun",
+        "description": "Registrasi domain .COM dengan DNS management lengkap, proteksi privasi WHOIS gratis, dan kemudahan transfer.",
+        "image": "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg",
+        "link": "https://shirohost.com/beli-domain",
+        "badge": "Best Seller"
+      },
+      {
+        "id": "h001",
+        "categoryId": "shared-hosting",
+        "name": "Shared Hosting Premium",
+        "price": "Rp 99.000/bulan",
+        "description": "Shared hosting dengan unlimited bandwidth, SSD storage 10GB, unlimited email accounts, dan cPanel lengkap.",
+        "image": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
+        "link": "https://shirohost.com/shared-hosting",
+        "badge": "Recommended"
+      },
+      {
+        "id": "v001",
+        "categoryId": "vps",
+        "name": "VPS SSD 2GB",
+        "price": "Rp 299.000/bulan",
+        "description": "VPS dengan RAM 2GB, storage SSD 40GB, bandwidth 2TB, dan full root access. Cocok untuk website traffic tinggi.",
+        "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+        "link": "https://shirohost.com/vps-ssd",
+        "badge": "Terlaris"
+      },
+      {
+        "id": "c001",
+        "categoryId": "cloud",
+        "name": "Cloud Hosting Bisnis",
+        "price": "Rp 199.000/bulan",
+        "description": "Solusi cloud hosting scalable dengan resource dedicated, backup harian, dan load balancing untuk performa optimal.",
+        "image": "https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg",
+        "link": "https://shirohost.com/cloud-hosting",
+        "badge": "High Performance"
+      },
+      {
+        "id": "s001",
+        "categoryId": "ssl",
+        "name": "SSL Certificate",
+        "price": "Rp 250.000/tahun",
+        "description": "Sertifikat SSL untuk mengamankan website Anda dengan enkripsi 256-bit dan trust seal untuk meningkatkan kepercayaan pengunjung.",
+        "image": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
+        "link": "https://shirohost.com/ssl-certificate",
+        "badge": "Wajib Ada"
+      }
+    ]
 }
