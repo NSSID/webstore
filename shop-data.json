@@ -63,12 +63,52 @@
       {
         "id": "v001",
         "categoryId": "vps",
-        "name": "VPS SSD 2GB",
-        "price": "Rp 299.000/bulan",
-        "description": "VPS dengan RAM 2GB, storage SSD 40GB, bandwidth 2TB, dan full root access. Cocok untuk website traffic tinggi.",
+        "name": "VPS AWS Basic",
+        "price": "Rp 20.000/bulan",
+        "description": "🚀 VPS AWS 2 Core CPU, 1GB RAM. Larangan: Mining, DDoS. Disclaimer: Admin hanya bertanggung jawab mengirimkan akses awal VPS.",
         "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
-        "link": "https://shirohost.com/vps-ssd",
+        "link": "https://shirohost.com/vps-aws",
+        "badge": "Promo"
+      },
+      {
+        "id": "v002",
+        "categoryId": "vps",
+        "name": "VPS AWS Standard",
+        "price": "Rp 25.000/bulan",
+        "description": "🚀 VPS AWS 2 Core CPU, 2GB RAM. Larangan: Mining, DDoS. Disclaimer: Admin hanya bertanggung jawab mengirimkan akses awal VPS.",
+        "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+        "link": "https://shirohost.com/vps-aws",
         "badge": "Terlaris"
+      },
+      {
+        "id": "v003",
+        "categoryId": "vps",
+        "name": "VPS AWS Advanced",
+        "price": "Rp 40.000/bulan",
+        "description": "🚀 VPS AWS 4 Core CPU, 2GB RAM. Larangan: Mining, DDoS. Disclaimer: Admin hanya bertanggung jawab mengirimkan akses awal VPS.",
+        "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+        "link": "https://shirohost.com/vps-aws",
+        "badge": "Recommended"
+      },
+      {
+        "id": "v004",
+        "categoryId": "vps",
+        "name": "VPS AWS Professional",
+        "price": "Rp 50.000/bulan",
+        "description": "🚀 VPS AWS 8 Core CPU, 4GB RAM. Larangan: Mining, DDoS. Disclaimer: Admin hanya bertanggung jawab mengirimkan akses awal VPS.",
+        "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+        "link": "https://shirohost.com/vps-aws",
+        "badge": "Powerful"
+      },
+      {
+        "id": "v005",
+        "categoryId": "vps",
+        "name": "VPS AWS Enterprise",
+        "price": "Rp 70.000/bulan",
+        "description": "🚀 VPS AWS 16 Core CPU, 4GB RAM. Larangan: Mining, DDoS. Disclaimer: Admin hanya bertanggung jawab mengirimkan akses awal VPS.",
+        "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+        "link": "https://shirohost.com/vps-aws",
+        "badge": "High Performance"
       },
       {
         "id": "c001",
@@ -90,5 +130,16 @@
         "link": "https://shirohost.com/ssl-certificate",
         "badge": "Wajib Ada"
       }
-    ]
+    ],
+    "vpsDisclaimer": {
+      "title": "Ketentuan Layanan VPS",
+      "prohibitions": [
+        "Tidak boleh Mining",
+        "Tidak boleh DDoS"
+      ],
+      "disclaimers": [
+        "Admin hanya bertanggung jawab mengirimkan akses awal VPS",
+        "Segala permasalahan yang timbul akibat penggunaan VPS yang tidak sesuai ketentuan adalah tanggung jawab pengguna sepenuhnya"
+      ]
+    }
 }
